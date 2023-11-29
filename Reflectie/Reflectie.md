@@ -10,7 +10,7 @@ Men moet ook zorgen voor excplicitie communicatie (duidelijk en volledig) net al
 Bij Carglass hebben ze er voor gezorgd dat de klantentevredenheid sinds 2020 tot 2023 van een 6,5/10 naar een 9/10 is gestegen door middel van bepaalde principes te hanteren en na te denken over hoe problemen beter en efficienter op te lossen. De WIP is dan ook van 400 incidenten naar 50 gezakt.
 Een goed gedocumenteerde administratie zorgt ook voor een betere manier van werken waarbij je gemakkelijker met meerdere incidenten bezig kan zijn en deze ook over verschillende teamleden kan verdelen.
 
-Wat heb ik bijgeleerd: Ik zie mezelf niet in een soortgelijke omgeving werken. 
+Wat heb ik bijgeleerd: Ik zie mezelf niet snel in een soortgelijke omgeving werken. 
 
 
 ## Reflectie WPL 2
