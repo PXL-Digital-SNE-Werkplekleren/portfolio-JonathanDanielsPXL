@@ -1,3 +1,15 @@
+
+Graduaat Systemen en Netwerken
+Portfolio Werkplekleren 1
+Werkplekbegeleiders sept - jan 2023
+
+Guido Frissaer - Marlies Dens - Ludwig Vaes
+Opleidingscoördinator
+
+Hans Roeyen
+
+
+
 INTRODUCTIE:
 
 Een portfolio is een digitaal hulpmiddel dat we gaan gebruiken voor Werkplekleren op school. Het helpt ons om te begrijpen hoe we leren en groeien tijdens onze stage. We kunnen hierin opschrijven wat we hebben geleerd en wat we goed of minder goed vonden. Het helpt ons te bergijpen hoe we ons ontwikkelen en of we onze doelen bereiken.
