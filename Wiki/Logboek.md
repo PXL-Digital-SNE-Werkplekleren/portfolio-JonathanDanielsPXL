@@ -13,3 +13,5 @@ kwaliteiten en ontwikkeling, gastcolleges gevolgd en kleine technische opdrachte
 ### **Planning WPL1:**
 **De planning van WPL1** is elk jaar anders en kan je vinden op Blackboard bij studiewijzer. Voeg deze
 planning hier toe in het logboek. Presenteer dit op een overzichtelijke en verzorgde manier.
+
+<img width="385" alt="Schermafbeelding 2023-12-21 151017" src="https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/assets/146947512/811bc930-5975-4e17-9852-0eb412b59cbc">
