@@ -21,7 +21,9 @@ Kortom, ons portfolio is heel belangrijke tool voor onze stagebeoordeling. Het h
 
 PERSOONLIJKE GEGEVENS:
 
-Jonathan Daniels 28/11/1995
+Jonathan Daniels 
+
+28/11/1995
 
 jonathan.daniels@student.pxl.be
 
