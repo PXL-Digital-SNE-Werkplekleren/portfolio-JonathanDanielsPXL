@@ -13,5 +13,4 @@ Kortom, ons portfolio is een heel belangrijke tool voor werkplekleren. Het helpt
 
 <img width="328" alt="Schermafbeelding 2023-12-24 143609" src="https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/assets/146947512/321b8b98-cf43-4bf7-ba56-b4a63ab8cf27">
 <img width="301" alt="Schermafbeelding 2023-12-24 143634" src="https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/assets/146947512/2526570f-7ce2-41cd-be72-cb0805c444c4">
-
 <img width="281" alt="Schermafbeelding 2023-12-24 143651" src="https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/assets/146947512/65bc0891-299a-4680-becc-2705f8971c9d">
