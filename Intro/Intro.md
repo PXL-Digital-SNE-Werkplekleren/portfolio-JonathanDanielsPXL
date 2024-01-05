@@ -1,5 +1,5 @@
 
-Inleiding:
+# Inleiding
 
 Een portfolio is een digitaal hulpmiddel dat we gaan gebruiken voor Werkplekleren op school. Het helpt ons om te begrijpen hoe we leren en groeien tijdens onze stage. We kunnen hierin opschrijven wat we hebben geleerd en wat we goed of minder goed vonden. Het helpt ons te bergijpen hoe we ons ontwikkelen en of we onze doelen bereiken.
 
@@ -7,7 +7,7 @@ In het portfolio gaan we alle opdrachten bewaren en onze eigen gedachten en beoo
 
 Kortom, ons portfolio is een heel belangrijke tool voor werkplekleren. Het helpt ons om beter te begrijpen wat we meemaken en het helpt ons te groeien in ons werk/opleiding.
 
-
+# Persoonlijke info
 
 [Curriculum-Vitae-Jonathan 1 1 2 - Nederlands-1.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/files/13761816/Curriculum-Vitae-Jonathan.1.1.2.-.Nederlands-1.pdf)
 
