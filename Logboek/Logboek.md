@@ -8,7 +8,7 @@ Werkplekleren is een belangrijk onderdeel in de studie van het Graduaat Systeem 
 
 Het doel van WPL1 was oriëntering en kennismaken met het werkveld.
 
-![planning!](../images/Schermafbeelding2023-12-21151017.png) 
+![planning!](../images/"Schermafbeelding 2023-12-21 151017.png") 
 
 ## Logboek WPL 2
 
