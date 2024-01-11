@@ -20,7 +20,7 @@ Troubleshooting: Wanneer zich problemen voordoen, is het de taak van de speciali
  
 Op dit moment ben ik nog aan het ontdekken welke specifieke functie binnen de IT-sector het beste bij mij past. Het veld is zo uitgebreid en er zijn zoveel mogelijkheden dat ik nog in de fase van kennisopbouw en kennismaking met verschillende aspecten van de IT zit. Mijn voorkeur neigt echter naar de gebieden van cloud computing en kunstmatige intelligentie (AI). Ik besef dat er nog veel te leren valt en dat ik me moet verdiepen in specifieke aspecten voordat ik een beslissing kan nemen over mijn toekomstige carrière in de IT.
 
-### Competenties systemen en netwerken
+### Competenties systemen en netwerken:
 
 De leerdoelstellingen voor iemand die afstudeert in een graduaat systemen en netwerken staan in volgende tabel samengevat:
 
