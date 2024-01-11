@@ -18,7 +18,7 @@
 (Github portfolio opdracht)
 
 ### 6. Linux 13-12-23 
-(zelfstudie linux shells)
+(Zelfstudie linux shells)
 
 ### 7. Opdracht actualiteit 13-12-23 
 (Reflectie opdracht over de impact van AI op de IT in willekeurige groepen)
