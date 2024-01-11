@@ -9,7 +9,7 @@ Kortom, ons portfolio is een heel belangrijke tool voor werkplekleren. Het helpt
 
 # Persoonlijke info
 
-![CVjonathan1!](../!images/cv1.png) 
+![CVjonathan1!](../images/cv1.png) 
 
 ![CVjonathan2!](../images/cv2.png)
 
