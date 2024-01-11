@@ -1,10 +1,10 @@
 # Overzicht Ontwikkelingsgesprekken
 
-## Overzicht ontwikkelingsgesprekken WPL 1
+### Overzicht ontwikkelingsgesprekken WPL 1
 
 Ik heb voor deze opleiding gekozen omdat ik gepassioneerd ben door technologie, computers en het beheer van IT-systemen. De IT-wereld verandert voortdurend, met nieuwe technologieën, tools en ideeën die regelmatig worden geïntroduceerd. Een opleiding in systeem- en netwerkbeheer helpt me op de hoogte te blijven van de nieuwste ontwikkelingen en biedt een solide basis om in de IT-wereld te werken. Systeem- en netwerkbeheerders hebben over het algemeen goede carrièremogelijkheden en beschikken vaak over vaardigheden die in veel verschillende industrieën en organisaties kunnen worden ingezet. Mijn doel is om zoveel mogelijk te leren en een succesvolle carrière op te bouwen.
 
-Enkele aspecten van het beroep die mij belangrijk lijken na het volgen van WPL1:
+### Enkele aspecten van het beroep die mij belangrijk lijken na het volgen van WPL1:
 
 Ontwerp en implementatie: Systeem- en netwerkspecialisten zijn vaak betrokken bij het ontwerpen en implementeren van IT-systemen. Dit omvat het plannen van netwerkinfrastructuren, het selecteren van hardware en software, en het opzetten van servers en andere belangrijke IT-componenten.
 
