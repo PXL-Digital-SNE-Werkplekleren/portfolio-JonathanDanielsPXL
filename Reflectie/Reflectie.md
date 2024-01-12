@@ -60,7 +60,7 @@ In een IT-opleiding kun je in aanraking komen met verschillende beroepen buiten 
 
 Hoe ziet je X-factor er op dit moment al uit? Welke ervaringen heb je al?
 
-Ik heb al veel ervaring werkervaring maar dit was nooit binnen de IT sector.
+Ik heb al veel werkervaring maar dit was nooit binnen de IT sector.
 
 Hoe zou je je X-factor kunnen vertalen naar de opleiding waarvoor je gekozen hebt?
 
