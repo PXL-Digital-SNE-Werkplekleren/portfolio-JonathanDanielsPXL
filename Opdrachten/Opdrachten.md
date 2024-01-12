@@ -38,7 +38,7 @@ https://pxl-digital-sne-werkplekleren.github.io/portfolio-JonathanDanielsPXL/
 
 Ik vond de leukste opdrachten de POP planning opdracht en de opdracht actualiteit. De planning opdracht vond ik leuk omdat ik een persoon ben die veel behoefte heeft aan orde en structuur een goede planning is dan ook zeer belangrijk voor mij. De opdracht actualiteit vond ik vooral leuk door het onderwerp van de opdracht en om de meningen van mijn medestudenten hierover eens te horen. Hierbij merkte ik dat deze toch wel vrij verdeeld waren. Uit deze opdrachten heb ik bijgeleerd hoe ik een goede planning kan maken en hoe ik goed kan leren samen werken met andere junior collegas die ik nog niet ken. Van de opdracht actualiteit moet ik mijn resulaat nog krijgen, het resulaat van de plannings opdracht heb ik hieronder afgebeeld.
 
-![wplresultaten!](../images/wplresulaten)
+![wplresultaten!](../images/wplresulaten.png)
 
 
 ## Opdrachten WPL 2
