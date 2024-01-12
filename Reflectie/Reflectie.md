@@ -102,7 +102,7 @@ Wat heb ik onthouden en bijgeleerd:
 
 De presentatie liet op mij een gemengde indruk achter. Terwijl Vladimir kennis over headhunting deelde, kwam zijn presentatie soms als te theoretisch voor mij over. Vaak had ik de indruk dat de focus vooral ligt op het vervullen van vacatures in plaats van de kandidaten goed te helpen. Dit is ook iets wat ik zelf al ervaren heb. Herhaalde en ongevraagde benaderingen door recruiters kunnen naar mijn mening als opdringerig worden ervaren, wat irritatie kan opwekken.
 
-### Slotevaluatie
+## Slotevaluatie
 
 Wat weet je al over de soort van job die je later wil uitoefenen?
 
