@@ -9,10 +9,9 @@
 ### 2. Toets Talstelsels  11-10-23 
 (Test over deciamele, binaire, octale en hexadecimale talstelsels)
 
-### 3. POP opdracht planning 13-10-23### 
+### 3. POP opdracht planning 13-10-23
 (Schematische planning van 2 weken school)
 [Daniels_Jonathan_planning-1.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/files/13918031/Daniels_Jonathan_planning-1.pdf)
-
 
 ### 4. Carrièrekompas 14-10-23 
 (Loopbaanplan opstellen)
@@ -29,7 +28,7 @@ https://pxl-digital-sne-werkplekleren.github.io/portfolio-JonathanDanielsPXL/
 (Reflectie opdracht over de impact van AI op de IT sector in willekeurig verdeelde groepen)
 
 ### 8. Opdracht netwerken 20-12-23 
-(Config files networks uploaden op github)
+(Configuratie files networks uploaden op github)
 
 ### 9. Power App OLR 22-12-23 
 (Applicatie maken op powerapps) 
