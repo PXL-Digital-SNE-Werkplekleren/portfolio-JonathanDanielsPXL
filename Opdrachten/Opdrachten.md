@@ -4,9 +4,6 @@
 
 ### 1. POP reflectieopdracht  29-09-23 
 (Korte persoonlijke reflectieopdracht)
-
-
-
 [Daniels_Jonathan_reflectieopdracht-1.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/files/13917982/Daniels_Jonathan_reflectieopdracht-1.pdf)
 
 ### 2. Toets Talstelsels  11-10-23 
@@ -14,22 +11,15 @@
 
 ### 3. POP opdracht planning 13-10-23### 
 (Schematische planning van 2 weken school)
-
-
-
 [Daniels_Jonathan_planning-1.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/files/13918031/Daniels_Jonathan_planning-1.pdf)
 
 
-## 4. Carrièrekompas 14-10-23 
+### 4. Carrièrekompas 14-10-23 
 (Loopbaanplan opstellen)
-
-
-
 [Daniels_Jonathan_mijn_loopbaan.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/files/13918036/Daniels_Jonathan_mijn_loopbaan.pdf)
 
 ### 5. Link portfolio website 08-11-23 
 (Github portfolio opdracht)
-
 https://pxl-digital-sne-werkplekleren.github.io/portfolio-JonathanDanielsPXL/
 
 ### 6. Linux 13-12-23 
@@ -43,14 +33,11 @@ https://pxl-digital-sne-werkplekleren.github.io/portfolio-JonathanDanielsPXL/
 
 ### 9. Power App OLR 22-12-23 
 (Applicatie maken op powerapps) 
-
-
-
 [Daniels_Jonathan_Template+opdracht+power+app.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/files/13918063/Daniels_Jonathan_Template%2Bopdracht%2Bpower%2Bapp.pdf)
 
-## Reflectie en resultaten:
+### Reflectie en resultaten:
 
-Ik vond de leukste opdrachten de POP planning opdracht en de opdracht actualiteit. De planning opdracht vond ik leuk omdat ik een persoon ben die veel behoefte heeft aan orde en structuur een goede planning is dan ook zeer belangrijk voor mij. De opdracht actualiteit vond ik vooral leuk door het onderwerp van de opdracht en om de meningen van mijn medestudenten hierover eens te horen. Hierbij merkte ik dat deze toch wel vrij verdeeld waren. Uit deze opdrachten heb ik bijgeleerd hoe ik een goede planning kan maken en hoe ik goed kan leren samen werken met andere junior collegas die ik nog niet ken. Van de opdracht actualiteit moet ik mijn punten nog krijgen, het resulaat van de plannings opdracht heb ik hieronder afgebeeld.
+Ik vond de leukste opdrachten de POP planning opdracht en de opdracht actualiteit. De planning opdracht vond ik leuk omdat ik een persoon ben die veel behoefte heeft aan orde en structuur een goede planning is dan ook zeer belangrijk voor mij. De opdracht actualiteit vond ik vooral leuk door het onderwerp van de opdracht en om de meningen van mijn medestudenten hierover eens te horen. Hierbij merkte ik dat deze toch wel vrij verdeeld waren. Uit deze opdrachten heb ik bijgeleerd hoe ik een goede planning kan maken en hoe ik goed kan leren samen werken met andere junior collegas die ik nog niet ken. Van de opdracht actualiteit moet ik mijn resulaat nog krijgen, het resulaat van de plannings opdracht heb ik hieronder afgebeeld.
 
 
 <img width="493" alt="Schermafbeelding 2023-12-24 135134" src="https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/assets/146947512/fd31250e-d7ed-495b-834f-70994da66d47">
