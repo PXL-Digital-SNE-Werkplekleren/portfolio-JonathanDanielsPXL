@@ -10,6 +10,9 @@ Ik ben het meest trots over mijn resultaat van de test over talstelsels omdat ik
 
 ## X-factor
 
+![wplxfactor!](../images/X-factor.png)
+
+
 ## Empassie
 
 Wat is mijn passie? Hoe houdt dit verband met de opleiding?
