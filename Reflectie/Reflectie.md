@@ -8,7 +8,7 @@ Van welk resultaat van WPL1 ben je vooral trots en waarom?
 
 Ik ben het meest trots over mijn resultaat van de test over talstelsels omdat ik hier toch wel veel tijd en moeite in heb moeten steken. Wiskunde is ook totaal niet mijn sterkste kant en dit maakte dat het voor nog meer voldoening heeft gezorgd denk ik.
 
-## X-factor: 
+## X-factor
 
 ## Empassie
 
@@ -76,7 +76,7 @@ Open staan voor nieuwe ervaringen want allen zo kan je groeien.
 Regelmatig feedback vragen om te blijven groeien en om betere inzichten te bekomen.
 Mijn successen en ideeën delen voor zichtbaarheid en reclame.
    
-### Gastsprekers:
+### Gastsprekers
 
 Nathan Reviers - Carglass
 
