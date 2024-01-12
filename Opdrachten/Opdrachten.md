@@ -22,6 +22,7 @@
 
 ### 5. Link portfolio website 08-11-23 
 (Github portfolio opdracht)
+
 https://pxl-digital-sne-werkplekleren.github.io/portfolio-JonathanDanielsPXL/
 
 ### 6. Linux 13-12-23 
