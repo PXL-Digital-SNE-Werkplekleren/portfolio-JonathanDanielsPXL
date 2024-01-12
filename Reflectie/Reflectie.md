@@ -79,7 +79,7 @@ Open staan voor nieuwe ervaringen want allen zo kan je groeien.
 Regelmatig feedback vragen om te blijven groeien en om betere inzichten te bekomen.
 Mijn successen en ideeën delen voor zichtbaarheid en reclame.
    
-### Gastsprekers
+## Gastsprekers
 
 Nathan Reviers - Carglass
 
