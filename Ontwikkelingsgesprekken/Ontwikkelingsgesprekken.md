@@ -26,6 +26,10 @@ De leerdoelstellingen voor iemand die afstudeert in een graduaat systemen en net
 
 ![logboek1!](../images/OLR's_transp.png)
 
+Belangrijke leermomenten uit WPL1 omvatten het ontwikkelen van een professionele houding, het omgaan met anderen en het aanpakken van uitdagende opdrachten. Sterke punten die ik heb geïdentificeerd, zijn mijn gedrevenheid en optimisme bij het aanpakken van nieuwe taken en mijn enthousiasme om te leren.
+
+Mijn soft skills omvatten een positieve instelling en passie voor mijn werk. In WPL2 wil ik me specifiek richten op mijn communicatieve vaardigheden, met als doel effectiever te communiceren en sterke relaties op te bouwen. Daarnaast wil ik mijn empathisch vermogen verbeteren om beter samen te werken met anderen. Ik kijk ernaar uit om deze ontwikkelpunten verder te versterken en te groeien gedurende dit semester.
+
 ## Overzicht ontwikkelingsgesprekken WPL 2
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
