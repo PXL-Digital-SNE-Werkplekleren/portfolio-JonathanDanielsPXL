@@ -58,7 +58,7 @@ In een IT-opleiding kun je in aanraking komen met verschillende beroepen buiten 
 - Management en leiderschap
 - Marketing
 - Gezondheidszorg of onderwijs
-  
+
 ## Reflectie op de X-factor
 
 Hoe ziet je X-factor er op dit moment al uit? Welke ervaringen heb je al?
