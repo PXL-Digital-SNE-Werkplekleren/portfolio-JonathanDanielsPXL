@@ -79,8 +79,6 @@ Mijn successen en ideeën delen voor zichtbaarheid en reclame.
 ### Gastsprekers:
 
 Nathan Reviers - Carglass
-29/11/2023 Gastspreker Carglass Nathan Reviers.
-Service desk manager.
 
 Wat heb ik onthouden: Het is vooral belangrijk voor een service desk team om de WIP (work in progress) laag te houden. Dit zorgt voor een snellere opvolging van de incidenten en minder werkdruk voor de medewerkers.
 Men moet ook zorgen voor excplicitie communicatie (duidelijk en volledig) net als werken volgens een Lean process, Itil komt hier ook bij aan bod. Ze werken volgens een 1ste lijn, 2de lijn en 3de lijns probleemverhelping.
