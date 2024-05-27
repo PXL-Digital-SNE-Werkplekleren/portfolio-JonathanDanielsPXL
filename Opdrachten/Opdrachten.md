@@ -49,26 +49,18 @@ Ik vond de leukste opdrachten de POP planning opdracht en de opdracht actualitei
 
 ## Opdrachten WPL 2
 
-Tijdens WPL2 heb ik een reeks opdrachten uitgevoerd die mijn technische en soft skills aanzienlijk hebben verbeterd. Hieronder geef ik een overzicht van mijn ervaringen en de vaardigheden die ik heb ontwikkeld.
+Tijdens WPL2 heb ik aan verschillende technische opdrachten gewerkt die mijn vaardigheden aanzienlijk hebben verbeterd. Ik begon met de installatie en configuratie van Windows Server 2022, wat de basis legde voor de rest van de taken. Vervolgens heb ik een domeincontroller opgezet, wat essentieel was voor het netwerkbeheer. Een van de uitdagende opdrachten was het koppelen van een Linux desktop aan onze Active Directory, wat veel troubleshooting vergde. Ook heb ik de beveiliging van onze systemen verbeterd door de implementatie van LAPS, waarmee we wachtwoorden beter konden beheren. Daarnaast heb ik een Learning Management System (LMS) geïntegreerd met onze Active Directory en een intranet site opgezet voor interne communicatie. Tot slot heb ik Group Policies geconfigureerd om de instellingen en beveiliging van de computers in de internetcorner te beheren. Deze opdrachten hebben mij niet alleen technisch, maar ook in mijn probleemoplossende en samenwerkingsvaardigheden laten groeien.
 
-Installatie Windows Server 2022: Deze taak was mijn eerste kennismaking met de nieuwste versie van Windows Server. De installatie verliep relatief vlot, hoewel ik enkele obstakels tegenkwam bij het configureren van de netwerkinstellingen. Dit leerde me geduld en doorzettingsvermogen.
-
-Configuratie voor template Windows Server 2022: Het creëren van een configuratietemplate was een leerzaam proces. Het testen en documenteren van de configuratie verbeterde mijn vermogen om systematisch en nauwkeurig te werken.
-
-Installatie DC01 vanuit template: Het opzetten van een domeincontroller vanuit de template was een cruciale taak. Dit ging vrij vlot dankzij de eerder gemaakte configuraties, en het gaf me inzicht in de waarde van een goede voorbereiding.
-
-Linux Desktop koppelen aan AD: Dit was een uitdaging vanwege de verschillen tussen Windows en Linux systemen. Maar ik slaagde er vrij vlot in om de koppeling te maken, wat mijn probleemoplossende vaardigheden verbeterde.
-
-Implementeer LAPS: De implementatie van Local Administrator Password Solution (LAPS) was nieuw voor me. Na wat onderzoek en testen, begreep ik de noodzaak en voordelen van deze beveiligingsmaatregel. Het duurde echter even voordat ik het werkend kreeg, wat mijn geduld en doorzettingsvermogen verder ontwikkelde.
-
-Windows-DNS server met forward en reverse lookup zone: Het configureren van de DNS server was technisch complex, maar essentieel voor het netwerkbeheer. Dit project versterkte mijn begrip van DNS en netwerkarchitectuur.
-
-LMS gekoppeld aan Active Directory: Het integreren van een Learning Management System (LMS) met AD was een van de moeilijkste taken. Het vereiste diepgaand onderzoek en vele tests, wat mijn vermogen om met complexe systemen te werken vergrootte.
-
-Intranet site: Het opzetten van een intranet site was een creatieve opdracht waar ik mijn webdesign en configuratie vaardigheden kon toepassen. Dit project versterkte mijn kennis van webservers en content management systemen.
-
-Group Policies voor Internet Corner PC: Het configureren van Group Policies voor specifieke gebruikersgroepen was eveneens een van de moeilijkste opdrachten. Dit vereiste een grondige planning en testing, en verbeterde mijn begrip van groepsbeleid en hun impact op de gebruikerservaring.
-
+Gemaakte opdrachten:
+1. Installatie Windows Server2022
+2. Configuratie voor template windows Server2022
+3. Installatie DC01 vanuit template
+4. Linux Desktop koppelen aan AD
+5. Implementeer LAPS
+6. Windows-DNS server met forward en reverse lookup zone.
+7. Zorg voor een LMS dat gekoppeld is aan de Active Directory.
+8. Intranet site
+9. Group Policies Internet Corner PC
 
 ## Opdrachten WPL 3
 
