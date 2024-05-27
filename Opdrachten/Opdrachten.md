@@ -49,6 +49,25 @@ Ik vond de leukste opdrachten de POP planning opdracht en de opdracht actualitei
 
 ## Opdrachten WPL 2
 
+### 1. Installatie Windows Server2022
+
+### 2. Configuratie voor template windows Server2022
+
+### 3. Installatie DC01 vanuit template
+
+### 4. Linux Desktop koppelen aan AD
+
+### 5. Implementeer LAPS
+
+### 6. Windows-DNS server met forward en reverse lookup zone.
+
+### 7. Zorg voor een LMS dat gekoppeld is aan de Active Directory.
+
+### 8. Intranet site
+
+### 9. Group Policies Internet Corner PC
+
+
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
