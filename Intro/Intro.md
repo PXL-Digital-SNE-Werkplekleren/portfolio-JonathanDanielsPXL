@@ -9,8 +9,8 @@ Kortom, ons portfolio is een heel belangrijke tool voor werkplekleren. Het helpt
 
 # Persoonlijke info
 
-![CVjonathan1!](../images/CV_Daniels_Jonathan.jpg) 
+![CV_Daniels_Jonathan!](../images/CV_Daniels_Jonathan.jpg) 
 
 
-[Curriculum-Vitae-Jonathan 1 1 2 - Nederlands-1.pdf](Intro/Daniels_Jonathan_CV.pdf)
+[Daniels_Jonathan_CV.pdf](Daniels_Jonathan_CV.pdf)
 
