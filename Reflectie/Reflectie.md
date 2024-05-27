@@ -165,7 +165,7 @@ Soft skills: Ik heb mijn teamwork, communicatie en probleemoplossend vermogen ve
 
 Dankwoord:
 
-En natuurlijk, een speciale dank aan mijn teamgenoten voor de geweldige samenwerking. Zonder jullie was ik nu misschien nog steeds verdwaald in de command line!
+En natuurlijk, een speciale dank aan mijn teamgenoten voor de geweldige samenwerking. Zonder jullie was ik nu misschien nog steeds verdwaald in de command line! :)
 
 ## Reflectie WPL 3
 
