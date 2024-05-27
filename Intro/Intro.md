@@ -9,11 +9,8 @@ Kortom, ons portfolio is een heel belangrijke tool voor werkplekleren. Het helpt
 
 # Persoonlijke info
 
-![CVjonathan1!](../images/cv1.png) 
-
-![CVjonathan2!](../images/cv2.png)
+![CVjonathan1!](../images/CV_Daniels_Jonathan.jpg) 
 
 
-
-[Curriculum-Vitae-Jonathan 1 1 2 - Nederlands-1.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/files/13761816/Curriculum-Vitae-Jonathan.1.1.2.-.Nederlands-1.pdf)
+[Curriculum-Vitae-Jonathan 1 1 2 - Nederlands-1.pdf](Intro/Daniels_Jonathan_CV.pdf)
 
