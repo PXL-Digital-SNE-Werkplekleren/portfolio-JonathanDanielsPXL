@@ -12,6 +12,8 @@ Het doel van WPL1 was oriëntering en kennismaken met het werkveld.
 
 ## Logboek WPL 2
 
+zie Opdrachten en Reflectie
+
 ## Logboek WPL 3
 
 ## Logboek WPL4
