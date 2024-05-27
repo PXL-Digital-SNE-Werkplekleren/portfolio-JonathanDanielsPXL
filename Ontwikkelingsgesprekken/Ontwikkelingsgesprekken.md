@@ -32,6 +32,8 @@ Mijn soft skills omvatten een positieve instelling en passie voor mijn werk. In 
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
 
+zie Opdrachten en Reflectie
+
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
