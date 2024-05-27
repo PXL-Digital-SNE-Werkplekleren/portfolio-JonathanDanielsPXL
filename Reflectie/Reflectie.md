@@ -152,15 +152,20 @@ Group Policies voor Internet Corner PC: Het configureren van Group Policies voor
 Reflectie: 
 
 Wat ging goed: Ik heb veel geleerd over het installeren en configureren van servers, de integratie van verschillende systemen en het oplossen van technische problemen.
+
 Wat ging minder goed: LMS integratie met AD duurde lang net als de implemantatie van LAPS en het configureren van Group Policies dit vond ik de moeilijkste taken en deze vergden veel tijd en moeite.
+
 Teamsamenwerking: We werkten goed samen als team, waarbij we regelmatig kennis en oplossingen uitwisselden. Dit heeft mijn communicatieve vaardigheden versterkt.
+
 Groeimomenten: Ik ben gegroeid in mijn vermogen om problemen te diagnosticeren en op te lossen zonder te panikeren. Doorzettingsvermogen en geduld bleken cruciaal.
+
 Technische skills: Mijn kennis van Windows Server, Active Directory, DNS configuratie en systeembeveiliging is aanzienlijk toegenomen.
+
 Soft skills: Ik heb mijn teamwork, communicatie en probleemoplossend vermogen verbeterd. Door intensieve samenwerking heb ik geleerd effectief te communiceren en samen te werken aan gemeenschappelijke doelen.
 
-Dankwoord
+Dankwoord:
 
-En natuurlijk, een speciale dank aan mijn teamgenoten voor de geweldige samenwerking. Zonder jullie was ik nog steeds vastgelopen in de command line!
+En natuurlijk, een speciale dank aan mijn teamgenoten voor de geweldige samenwerking. Zonder jullie was ik nu misschien nog steeds verdwaald in de command line!
 
 ## Reflectie WPL 3
 
