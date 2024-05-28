@@ -49,7 +49,7 @@ Ik vond de leukste opdrachten de POP planning opdracht en de opdracht actualitei
 
 ## Opdrachten WPL 2
 
-Tijdens WPL2 heb ik aan verschillende technische opdrachten gewerkt die mijn vaardigheden aanzienlijk hebben verbeterd. Ik begon met de installatie en configuratie van Windows Server 2022, wat de basis legde voor de rest van de taken. Vervolgens heb ik een domeincontroller opgezet, wat essentieel was voor het netwerkbeheer. Een van de uitdagende opdrachten was het koppelen van een Linux desktop aan onze Active Directory, wat veel troubleshooting vergde. Ook heb ik de beveiliging van onze systemen verbeterd door de implementatie van LAPS, waarmee we wachtwoorden beter konden beheren. Daarnaast heb ik een Learning Management System (LMS) geïntegreerd met onze Active Directory en een intranet site opgezet voor interne communicatie. Tot slot heb ik Group Policies geconfigureerd om de instellingen en beveiliging van de computers in de internetcorner te beheren. Deze opdrachten hebben mij niet alleen technisch, maar ook in mijn probleemoplossende en samenwerkingsvaardigheden laten groeien.
+Tijdens WPL2 heb ik veel technische taken uitgevoerd die mijn vaardigheden hebben verbeterd. Als Eerste installeerde en configureerde ik Windows Server 2022, wat de basis vormde voor alles wat volgde. Ik heb een domeincontroller opgezet, wat belangrijk is voor netwerkbeheer. Een domeincontroller is een server die de gebruikers en computers in een netwerk beheert en beveiligt. Een van de moeilijkere opdrachten was het koppelen van een leersysteem (LMS) aan onze Active Directory (een database). Ik heb ook de beveiliging van onze systemen verbeterd door een wachtwoordbeheer systeem genaamd LAPS te installeren. Daarnaast heb ik een Linux-computer verbonden met onze Active Directory en een interne website voor communicatie opgezet. Tot slot heb ik instellingen en beveiliging voor de computers in de internetruimte beheerd met Group Policies. Door deze taken heb ik niet alleen mijn technische vaardigheden, maar ook mijn probleemoplossende en samenwerkingsvaardigheden verbeterd.
 
 Gemaakte opdrachten:
 1. Opdracht initiatie AWS
@@ -66,7 +66,7 @@ Gemaakte opdrachten:
 
 [Eindpresentatie Team 18 PDF](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/f125c732722e5ec2648bd879e9fbe58822983952/WPL2_T18_Eindpresentatie.pdf)
 
-[Fragment uit een gekozen opdracht](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/1a3cfe9a50f5f6a62cb034b4c90327fd6004f593/fragment.pdf)   
+[Een fragment uit het eindrapport](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/1a3cfe9a50f5f6a62cb034b4c90327fd6004f593/fragment.pdf)   
 
 ## Opdrachten WPL 3
 
