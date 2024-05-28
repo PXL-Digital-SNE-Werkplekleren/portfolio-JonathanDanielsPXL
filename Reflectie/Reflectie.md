@@ -131,7 +131,7 @@ Ik blijf vastbesloten om mijn kennis op het gebied van IT uit te breiden. Mijn v
 
 Tijdens WPL2 heb ik een reeks opdrachten uitgevoerd die mijn technische en soft skills aanzienlijk hebben verbeterd. Hieronder geef ik een overzicht van mijn ervaringen en de vaardigheden die ik heb ontwikkeld.
 
-Installatie Windows Server 2022: Deze taak was mijn eerste kennismaking met de nieuwste versie van Windows Server. De installatie verliep relatief vlot, hoewel ik enkele obstakels tegenkwam bij het configureren van de netwerkinstellingen. Dit leerde me geduld en doorzettingsvermogen.
+Installatie Windows Server 2022: Deze taak was een van mijn eerste kennismakingen met de nieuwste versie van Windows Server. De installatie verliep relatief vlot, hoewel ik enkele obstakels tegenkwam bij het configureren van de netwerkinstellingen. Dit leerde me geduld en doorzettingsvermogen.
 
 Configuratie voor template Windows Server 2022: Het creëren van een configuratietemplate was een leerzaam proces. Het testen en documenteren van de configuratie verbeterde mijn vermogen om systematisch en nauwkeurig te werken.
 
