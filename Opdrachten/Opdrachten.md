@@ -71,12 +71,15 @@ Gemaakte opdrachten:
 ## Opdrachten WPL 3
 
 Opdracht Werkkwaliteiten
+
 [Opdracht Werkkwaliteiten](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/WPL3-SNE_Intervisie_Leerdoelen%20Werkkwaliteiten_DanielsJonathan_24.pdf)
 
 Opdracht Probleemsituatie
+
 [Opdracht Probleemsituatie](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/ProbleemsituatieWPL3_2SNEB_Daniels_Jonathan.pdf)
 
 Opdracht Probleem-met-advies
+
 [Opdracht Probleem-met-advies](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/ProbleemsituatieWPL3_2SNEB_Daniels_Jonathan_Naverwerking.pdf)
 
 ## Opdrachten WPL 4
