@@ -169,10 +169,7 @@ En natuurlijk, een speciale dank aan mijn teamgenoten voor de geweldige samenwer
 
 ## Reflectie WPL 3
 
-### Eindreflectyie WPL3
-
-
-Eindreflectie WPL3
+### Eindreflectie WPL3
 
 Positieve punten
 
