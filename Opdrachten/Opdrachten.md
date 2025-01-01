@@ -70,4 +70,11 @@ Gemaakte opdrachten:
 
 ## Opdrachten WPL 3
 
+Opdracht Werkkwaliteiten
+
+Opdracht Probleemsituatie
+
+Opdracht Probleem-met-advies
+
+
 ## Opdrachten WPL 4
