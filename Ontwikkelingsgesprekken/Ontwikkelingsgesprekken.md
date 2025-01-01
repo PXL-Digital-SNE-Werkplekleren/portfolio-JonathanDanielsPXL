@@ -36,4 +36,8 @@ zie Opdrachten en Reflectie
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
+Tijdens de voorbije periode van Werkplekleren heb ik veel geleerd en ben ik gegroeid in zowel technische als persoonlijke vaardigheden. Door met voor mij nieuwe technologieën te werken, heb ik mijn technische kennis en probleemoplossend vermogen verder ontwikkeld. Daarnaast heb ik meer inzicht gekregen in hoe ik mijn werk efficiënter kan plannen en prioriteren, wat mijn prestaties aanzienlijk heeft verbeterd.
+
+Op persoonlijk vlak heb ik mijn vaardigheden verder ontwikkeld op het gebied van aanpassingsvermogen en probleemoplossend denken. Ik ben beter geworden in het inspelen op onverwachte situaties en het vinden van praktische oplossingen. Ook heb ik mijn zelforganisatie verbeterd, waardoor ik efficiënter met mijn tijd en taken omga. Daarnaast heb ik beter leren zelfstandig werken door veel zelf op te zoeken en problemen op eigen initiatief aan te pakken. Daarnaast ben ik assertiever geworden in het stellen van vragen en het zoeken van feedback, wat mijn professionele groei heeft gestimuleerd. Uit de feedback bleek dat ik trots mag zijn op mijn werk en dat proactief handelen belangrijk is.
+
 ## Overzicht ontwikkelingsgesprekken WPL 4
