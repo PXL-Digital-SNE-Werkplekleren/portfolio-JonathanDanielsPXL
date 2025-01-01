@@ -40,4 +40,7 @@ Tijdens de voorbije periode van Werkplekleren heb ik veel geleerd en ben ik gegr
 
 Op persoonlijk vlak heb ik mijn vaardigheden verder ontwikkeld op het gebied van aanpassingsvermogen en probleemoplossend denken. Ik ben beter geworden in het inspelen op onverwachte situaties en het vinden van praktische oplossingen. Ook heb ik mijn zelforganisatie verbeterd, waardoor ik efficiënter met mijn tijd en taken omga. Daarnaast heb ik beter leren zelfstandig werken door veel zelf op te zoeken en problemen op eigen initiatief aan te pakken. Daarnaast ben ik assertiever geworden in het stellen van vragen en het zoeken van feedback, wat mijn professionele groei heeft gestimuleerd. Uit de feedback bleek dat ik trots mag zijn op mijn werk en dat proactief handelen belangrijk is.
 
+[WPL3-FG-werkkwaliteiten_DanielsJonathan](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/WPL3-FG-werkkwaliteiten_DanielsJonathan.pdf)
+[WPL3-FG-werkprestaties_DanielsJonathan](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/WPL3-FG-werkprestaties_DanielsJonathan.pdf)
+
 ## Overzicht ontwikkelingsgesprekken WPL 4
