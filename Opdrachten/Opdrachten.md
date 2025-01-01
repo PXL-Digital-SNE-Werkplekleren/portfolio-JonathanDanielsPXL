@@ -74,7 +74,7 @@ Opdracht Werkkwaliteiten
 
 Opdracht Probleemsituatie
 
-[opdracht](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/ProbleemsituatieWPL3_2SNEB_Daniels_Jonathan.pdf) 
+[opdracht Probleemsituatie]
 
 Opdracht Probleem-met-advies
 
