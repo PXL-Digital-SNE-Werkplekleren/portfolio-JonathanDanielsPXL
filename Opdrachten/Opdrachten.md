@@ -73,6 +73,7 @@ Gemaakte opdrachten:
 Opdracht Werkkwaliteiten
 
 Opdracht Probleemsituatie
+(https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/ProbleemsituatieWPL3_2SNEB_Daniels_Jonathan.pdf) 
 
 Opdracht Probleem-met-advies
 
