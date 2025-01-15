@@ -1,12 +1,18 @@
 
 # Inleiding
 
-Welkom op mijn portfolio.
-Een portfolio is een digitaal hulpmiddel dat we gaan gebruiken voor Werkplekleren op school. Het helpt ons om te begrijpen hoe we leren en groeien tijdens onze stage. We kunnen hierin opschrijven wat we hebben geleerd en wat we goed of minder goed vonden. Het helpt ons te bergijpen hoe we ons ontwikkelen en of we onze doelen bereiken.
+✨ Welkom op mijn Portfolio! ✨
 
-In het portfolio gaan we alle opdrachten bewaren en onze eigen gedachten en beoordelingen toevoegen. We schrijven niet alleen op wat we hebben gedaan, maar ook hoe we ons daarbij voelen en wat we ervan hebben geleerd. We moeten ons portfolio gedurende de hele opleding per semester bijwerken en deze up to date houden. Ook krijgen we tussendoor feedback van de leerkrachten om ons te helpen groeien. Ze zullen ons ook vertellen wanneer we opdarchten moeten toevoegen en wanneer we ze moeten delen.
+Welkom op mijn GitHub-pagina, waar ik jullie graag meeneem in mijn persoonlijke traject aan hogeschool PXL tijdens mijn graduaatsopleiding Systeem- en Netwerkbeheer. Hier deel ik alles wat ik de komende twee jaar zal leren, ontdekken en realiseren — van interessante projecten tot mijn eigen inzichten en reflecties.
 
-Kortom, ons portfolio is een heel belangrijke tool voor werkplekleren. Het helpt ons om beter te begrijpen wat we meemaken en het helpt ons te groeien in ons werk/opleiding.
+Op deze pagina krijg je een inkijk in wie ik ben, waarom ik voor deze opleiding heb gekozen en welke uitdagingen ik ben aangegaan tijdens mijn werkplekleren (WPL). Je vindt hier een chronologisch overzicht van de opdrachten en projecten waaraan ik werk — zowel de leuke als de meer uitdagende taken. Daarnaast documenteer ik ook mijn stages, leerervaringen en groei als IT-professional.
+
+Wat je zeker mag verwachten, is een stukje zelfreflectie. Hoe kijk ik terug op bepaalde opdrachten? Wat heb ik geleerd? Welke skills heb ik verbeterd? Dit portfolio is meer dan enkel een verzameling taken; het is mijn persoonlijk groeiboek in IT!
+
+Ik hoop dat deze pagina niet alleen mijn eigen groei weerspiegelt, maar ook anderen inspireert om voortdurend bij te leren en nieuwe uitdagingen aan te gaan. 💻🚀
+
+Veel leesplezier! 😊
+
 
 # Persoonlijke info
 
