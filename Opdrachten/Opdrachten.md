@@ -15,7 +15,7 @@
 
 [Daniels_Jonathan_planning-1.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/files/13918031/Daniels_Jonathan_planning-1.pdf)
 
-### 4. Carrièrekompas 14-10-23 
+4. Carrièrekompas 14-10-23 
 (Loopbaanplan opstellen)
 
 [Daniels_Jonathan_mijn_loopbaan.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/files/13918036/Daniels_Jonathan_mijn_loopbaan.pdf)
