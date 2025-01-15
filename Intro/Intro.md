@@ -19,4 +19,5 @@ Veel leesplezier! 😊
 ![CV_Daniels_Jonathan!](../images/CV_Jonathan_Daniels.jpg) 
 
 
-[Jonathan_Daniels_CV_PDF_link](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/intro/CV_Jonathan_Daniels.pdf)
+[CV_DanielsJonathan](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/CV_Jonathan_Daniels.pdf)
+
