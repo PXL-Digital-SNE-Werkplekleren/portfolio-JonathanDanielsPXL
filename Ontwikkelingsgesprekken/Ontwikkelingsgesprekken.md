@@ -44,4 +44,6 @@ Op persoonlijk vlak heb ik mijn vaardigheden verder ontwikkeld op het gebied van
 
 [WPL3-FG-werkprestaties_DanielsJonathan](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/WPL3-FG-werkprestaties_DanielsJonathan.pdf)
 
+Mijn evaluatiegesprek staat gepland op 17 januari 2025
+
 ## Overzicht ontwikkelingsgesprekken WPL 4
