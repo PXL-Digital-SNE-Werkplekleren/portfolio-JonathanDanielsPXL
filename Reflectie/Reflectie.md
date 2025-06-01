@@ -228,3 +228,31 @@ Mijn huidige talenten, zoals mijn analytisch denkvermogen en doorzettingsvermoge
 Met de inzichten en ervaringen die ik tijdens WPL3 heb opgedaan, kijk ik vol vertrouwen uit naar WPL4, waarin ik mijn vaardigheden verder wil verfijnen en nieuwe uitdagingen wil aangaan.
 
 ## Reflectie WPL 4
+
+Positieve punten
+Tijdens WPL4 heb ik ontdekt hoe boeiend en waardevol cloud- en automatiseringsoplossingen zijn. Het werken met Microsoft Azure (AZ-900, AZ-104) hielp me mijn kennis van cloudarchitecturen snel uit te breiden en te vertalen naar concrete toepassingen. Daarnaast gaf het schrijven van PowerShell- en Python-scripts mij het vertrouwen dat ik handmatige, repetitieve taken consistent kan automatiseren. Het gevoel van voldoening wanneer een script foutloos draait en tijd bespaart, was zeer motiverend. Ook merkte ik dat ik door Zabbix-monitoring en Wireshark-analyses sneller netwerkproblemen identificeer, wat mijn technische zelfvertrouwen een flinke boost gaf.
+________________________________________
+Positieve realisaties
+•	Azure-testomgeving opzetten en certificeringstraject: Ik heb zelfstandig een Azure-testomgeving ingericht met virtuele netwerken en storage-accounts. Dit maakte het mogelijk om snel proof-of-concepts uit te voeren én mijn Azure-vaardigheden (AZ-900, AZ-104) concreet te oefenen.
+•	Automatiseringsscripts ontwikkelen: Ik schreef en implementeerde diverse PowerShell-scripts om back-ups te controleren en software-updates te automatiseren. Elk script leverde een merkbare tijdsbesparing op voor het beheerteam.
+•	Monitoring en troubleshooting: Met Zabbix-agents op testservers en Wireshark-analyses heb ik bottlenecks en packetloss-troubleshooting uitgevoerd, waardoor virtuele testomgevingen stabieler draaiden.
+•	Security-testen uitvoeren: Tijdens pentests met OWASP ZAP en Kali Linux bracht ik kwetsbaarheden in interne webapplicaties en testsystemen aan het licht en werkte ik mee aan gerichte mitigaties.
+•	Load-balancingoptimalisatie: Door virtuele switches in VMware anders te configureren, verkortte ik reactietijden in testopstellingen en verbeterde ik de overall performance van de omgeving.
+•	Documentatie en kennisdeling: Mijn Visio-diagrammen, procesbeschrijvingen en handleidingen voor nieuwe testscenario’s maakten het voor collega’s eenvoudig om dezelfde omgevingen zelfstandig op te starten en verder te ontwikkelen.
+________________________________________
+Positief op de werkplek
+De sfeer tijdens WPL4 was zeer stimulerend: collega’s waardeerden mijn proactieve houding en luisterden actief naar voorstellen om processen te verbeteren. Doordat de IT-afdeling openstond voor experimenten met scripts en cloudoplossingen, voelde ik me vrij om nieuwe tools uit te proberen. De informele cultuur maakte het gemakkelijk om vragen te stellen of om feedback te vragen bij complexe vraagstukken. Deze positieve werkomgeving motiveerde mij om elke uitdaging enthousiast aan te pakken.
+________________________________________
+Samenwerking
+De samenwerking met mijn werkplekcoach en teamleden verliep soepel. Mijn werkplekcoach gaf me duidelijke doelen (bijvoorbeeld: “Zet Zabbix op voor alle testservers” of “Voer een pentest uit op de interne webapp”). Ik had genoeg ruimte om zelf oplossingen te zoeken, terwijl ik bij obstakels altijd terechtkon voor advies. Met collega’s uit het netwerk- en het securityteam stemde ik regelmatig af over configuratie-keuzes en de inzet van tools. Zo’n multidisciplinaire aanpak bood mij inzicht in verschillende invalshoeken en stimuleerde mij om mijn eigen ideeën scherper te verwoorden en te toetsen.
+________________________________________
+Uitdagingen
+Een van de grootste uitdagingen was het snel schakelen tussen verschillende technologieën. Zo vroeg het opzetten van load balancing in VMware om tijdige afstemming met teamleden over netwerk- en virtuele infrastructuur. Daarnaast kostte het me moeite om security-analyses met OWASP ZAP en Kali Linux grondig te documenteren, omdat ik in korte tijd meerdere kwetsbaarheden moest prioriteren. Ten slotte vroeg het schrijven van gestructureerde, begrijpelijke handleidingen voor collega’s om een balans tussen technische diepte en leesbaarheid—iets waar ik nog verder in kan groeien.
+________________________________________
+Verbeterpunten voor mijn verdere ontwikkeling
+•	Security-rapportage: Ik wil het proces van security-testen verfijnen door reguliere pentest-scripts te ontwikkelen met Kali Linux en automatisch rapportgeneratie in te bouwen, zodat eventuele kwetsbaarheden sneller duidelijk zijn voor het team.
+________________________________________
+Vooruitblik
+Met de kennis en ervaring uit WPL4 voel ik me goed voorbereid op mijn eerste baan in de IT. Ik wil verder investeren in certificeringen (bijvoorbeeld Azure Security Engineer of VMware VCAP) en me specialiseren in cloudbeveiliging en automatisering. Daarnaast wil ik mijn soft skills aanscherpen door deel te nemen aan technische meetups en interne kennissessies te geven. Mijn ambitie is om binnen twee jaar de rol van cloud-of security-specialist op mij te nemen, waarbij ik nieuwe automatiseringsoplossingen ontwikkel en de security-postuur van de organisatie verder versterk. Hiermee leg ik een stevige basis voor mijn loopbaan na de opleiding.
+
+
