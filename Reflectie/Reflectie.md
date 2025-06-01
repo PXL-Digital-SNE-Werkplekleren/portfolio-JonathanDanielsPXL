@@ -255,4 +255,4 @@ ________________________________________
 Vooruitblik
 Met de kennis en ervaring uit WPL4 voel ik me goed voorbereid op mijn eerste baan in de IT. Ik wil verder investeren in certificeringen (bijvoorbeeld Azure Security Engineer of VMware VCAP) en me specialiseren in cloudbeveiliging en automatisering. Daarnaast wil ik mijn soft skills aanscherpen door deel te nemen aan technische meetups en interne kennissessies te geven. Mijn ambitie is om binnen twee jaar de rol van cloud-of security-specialist op mij te nemen, waarbij ik nieuwe automatiseringsoplossingen ontwikkel en de security-postuur van de organisatie verder versterk. Hiermee leg ik een stevige basis voor mijn loopbaan na de opleiding.
 
-[Eindreflectie Wpl4](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/EindreflectieWPL4.pdf)
+[Eindreflectie Wpl4](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/Eindreflectie_WPL4.pdf)
