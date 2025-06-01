@@ -240,19 +240,18 @@ Positieve realisaties
 •	Load-balancingoptimalisatie: Door virtuele switches in VMware anders te configureren, verkortte ik reactietijden in testopstellingen en verbeterde ik de overall performance van de omgeving.
 •	Documentatie en kennisdeling: Mijn Visio-diagrammen, procesbeschrijvingen en handleidingen voor nieuwe testscenario’s maakten het voor collega’s eenvoudig om dezelfde omgevingen zelfstandig op te starten en verder te ontwikkelen.
 ________________________________________
-Positief op de werkplek
 De sfeer tijdens WPL4 was zeer stimulerend: collega’s waardeerden mijn proactieve houding en luisterden actief naar voorstellen om processen te verbeteren. Doordat de IT-afdeling openstond voor experimenten met scripts en cloudoplossingen, voelde ik me vrij om nieuwe tools uit te proberen. De informele cultuur maakte het gemakkelijk om vragen te stellen of om feedback te vragen bij complexe vraagstukken. Deze positieve werkomgeving motiveerde mij om elke uitdaging enthousiast aan te pakken.
 ________________________________________
-Samenwerking
-De samenwerking met mijn werkplekcoach en teamleden verliep soepel. Mijn werkplekcoach gaf me duidelijke doelen (bijvoorbeeld: “Zet Zabbix op voor alle testservers” of “Voer een pentest uit op de interne webapp”). Ik had genoeg ruimte om zelf oplossingen te zoeken, terwijl ik bij obstakels altijd terechtkon voor advies. Met collega’s uit het netwerk- en het securityteam stemde ik regelmatig af over configuratie-keuzes en de inzet van tools. Zo’n multidisciplinaire aanpak bood mij inzicht in verschillende invalshoeken en stimuleerde mij om mijn eigen ideeën scherper te verwoorden en te toetsen.
+De samenwerking met mijn werkplekcoach en teamleden verliep soepel. Mijn werkplekcoach gaf me duidelijke doelen (bijvoorbeeld: “Zet Zabbix op voor alle testservers” of “Voer een pentest uit op de interne webapp”). Ik had genoeg ruimte om zelf oplossingen te zoeken, terwijl ik bij obstakels altijd terechtkon voor advies. 
 ________________________________________
-Uitdagingen
 Een van de grootste uitdagingen was het snel schakelen tussen verschillende technologieën. Zo vroeg het opzetten van load balancing in VMware om tijdige afstemming met teamleden over netwerk- en virtuele infrastructuur. Daarnaast kostte het me moeite om security-analyses met OWASP ZAP en Kali Linux grondig te documenteren, omdat ik in korte tijd meerdere kwetsbaarheden moest prioriteren. Ten slotte vroeg het schrijven van gestructureerde, begrijpelijke handleidingen voor collega’s om een balans tussen technische diepte en leesbaarheid—iets waar ik nog verder in kan groeien.
 ________________________________________
 Verbeterpunten voor mijn verdere ontwikkeling
+
 •	Security-rapportage: Ik wil het proces van security-testen verfijnen door reguliere pentest-scripts te ontwikkelen met Kali Linux en automatisch rapportgeneratie in te bouwen, zodat eventuele kwetsbaarheden sneller duidelijk zijn voor het team.
 ________________________________________
 Vooruitblik
+
 Met de kennis en ervaring uit WPL4 voel ik me goed voorbereid op mijn eerste baan in de IT. Ik wil verder investeren in certificeringen (bijvoorbeeld Azure Security Engineer of VMware VCAP) en me specialiseren in cloudbeveiliging en automatisering. Daarnaast wil ik mijn soft skills aanscherpen door deel te nemen aan technische meetups en interne kennissessies te geven. Mijn ambitie is om binnen twee jaar de rol van cloud-of security-specialist op mij te nemen, waarbij ik nieuwe automatiseringsoplossingen ontwikkel en de security-postuur van de organisatie verder versterk. Hiermee leg ik een stevige basis voor mijn loopbaan na de opleiding.
 
 [Eindreflectie Wpl4](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/EindreflectieWPL4.pdf)
