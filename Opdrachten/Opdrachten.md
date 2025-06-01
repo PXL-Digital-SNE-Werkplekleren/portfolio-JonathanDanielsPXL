@@ -86,6 +86,8 @@ Opdracht Probleem-met-advies
 
 Opdracht Omgaan met feedback
 
+[Opdracht omgaan met feedback](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/WPL_Intervisie_opdracht_2025-03_Jonathan_Daniels(1).pdf)
 
 Opdracht Eindreflectie
 
+[Opdracht Eindreflectie](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/WPL_Eindreflectie_Daniels_Jonathan.pdf)
