@@ -83,3 +83,9 @@ Opdracht Probleem-met-advies
 [Opdracht Probleem-met-advies](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JonathanDanielsPXL/blob/main/ProbleemsituatieWPL3_2SNEB_Daniels_Jonathan_Naverwerking.pdf)
 
 ## Opdrachten WPL 4
+
+Opdracht Omgaan met feedback
+
+
+Opdracht Eindreflectie
+
