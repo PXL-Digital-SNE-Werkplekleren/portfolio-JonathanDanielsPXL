@@ -229,7 +229,6 @@ Met de inzichten en ervaringen die ik tijdens WPL3 heb opgedaan, kijk ik vol ver
 
 ## Reflectie WPL 4
 
-Positieve punten
 Tijdens WPL4 heb ik ontdekt hoe boeiend en waardevol cloud- en automatiseringsoplossingen zijn. Het werken met Microsoft Azure (AZ-900, AZ-104) hielp me mijn kennis van cloudarchitecturen snel uit te breiden en te vertalen naar concrete toepassingen. Daarnaast gaf het schrijven van PowerShell- en Python-scripts mij het vertrouwen dat ik handmatige, repetitieve taken consistent kan automatiseren. Het gevoel van voldoening wanneer een script foutloos draait en tijd bespaart, was zeer motiverend. Ook merkte ik dat ik door Zabbix-monitoring en Wireshark-analyses sneller netwerkproblemen identificeer, wat mijn technische zelfvertrouwen een flinke boost gaf.
 ________________________________________
 Positieve realisaties
